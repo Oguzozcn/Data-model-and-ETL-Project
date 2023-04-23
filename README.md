@@ -1,4 +1,7 @@
 # Data model and ETL Project
+### ERD
+![](https://github.com/Oguzozcn/Data-model-and-ETL-Project/blob/main/ERD.jpg)
+
 
 Data Model Project:
 
